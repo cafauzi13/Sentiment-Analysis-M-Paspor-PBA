@@ -2,7 +2,7 @@
 Tugas 1-A: Pemrosesan Bahasa Alami (NLP)
 
 ## Deskripsi Proyek
-Proyek ini bertujuan untuk menganalisis sentimen pengguna aplikasi **M-Paspor** di Google Play Store. Fokus utama tahap ini adalah *Data Acquisition* dan *Preprocessing* hingga tahap **Tokenisasi**.
+Proyek ini bertujuan untuk menganalisis sentimen pengguna aplikasi **M-Paspor** di Google Play Store. Fokus utama tahap ini adalah *Data Acquisition* dan *Preprocessing* hingga tahap **Tokenisasi** (week 1)
 
 ## Prosedur Preprocessing
 1. **Scrapping**: Mengambil data menggunakan `google-play-scraper`.
@@ -11,7 +11,7 @@ Proyek ini bertujuan untuk menganalisis sentimen pengguna aplikasi **M-Paspor** 
 4. **Stemming**: Mencari kata dasar menggunakan library `Sastrawi`.
 5. **Tokenisasi**: Memecah kalimat menjadi token kata tunggal.
 
-## Sumber Referensi (Reviewer Insights)
+## Sumber Referensi 
 - Kamus Alay: nasalsabila/kamus-alay
 - Lexicon: fajri91/InSet
 - Stopwords: louisowen6/NLP_bahasa_resources
