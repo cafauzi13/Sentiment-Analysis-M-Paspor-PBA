@@ -1,4 +1,14 @@
 text,rating,date,tokens
+Tolong diperbaiki. Kenapa ga bisa pilih tanggal kedatangan?,2,2026-03-09 05:08:17,"['pilih', 'tanggal']"
+aplikasi spam. Harusnya bkn aplikasi pendaftaran tp aplikasi perpanjangan saja. daftar harus cm daftar. kalo sampai bayar y aplikasi perpanjangan passport.,1,2026-03-09 02:49:28,"['aplikasi', 'spam', 'aplikasi', 'daftar', 'aplikasi', 'daftar', 'daftar', 'kalo', 'bayar', 'aplikasi', 'passport']"
+ada error: kode otp email saat pendaftaran tidak masuk,1,2026-03-08 13:27:58,"['error', 'kode', 'otp', 'email', 'daftar', 'masuk']"
+"Aplikasi Negara, yang bikin kita geleng geleng kepala guys 🤣",1,2026-03-07 08:46:23,"['aplikasi', 'negara', 'bikin', 'geleng', 'geleng', 'kepala', 'guys']"
+bagus aplikasi ini,5,2026-03-06 07:34:04,"['bagus', 'aplikasi']"
+"min syaa Uda donlod knpa ga bisa ya? katanya perangkat tidak aman,esimulatoe gitu",2,2026-03-05 15:23:44,"['min', 'syaa', 'donlod', 'perangkat', 'amanesimulatoe']"
+daftar pon gak bisa kapan bisa daftar,1,2026-03-05 04:45:37,"['daftar', 'pon', 'daftar']"
+pada saat isi alamat pada bagian pilih provinis dan seterusnya ga bisa. tolong segera dibenerin. urgent saya mau perpanjang pasport,1,2026-03-04 06:58:16,"['isi', 'alamat', 'pilih', 'provinis', 'dibenerin', 'urgent', 'pasport']"
+Di aplikasi ga ada FAQ. Perubahan cara bayar juga ga bisa.,2,2026-03-04 01:51:15,"['aplikasi', 'faq', 'ubah', 'bayar']"
+"tanggal kedatangan gabisa di klik, proses terhambat di tanggal kedatangan",2,2026-03-03 07:38:02,"['tanggal', 'klik', 'proses', 'hambat', 'tanggal']"
 "saran saya ga usah lewat aplikasi.. pasti ribet, & dibikin ribet beda sama yg lewat calo lbh mulus semulus jalan tol, ntah itu disengaja atau tidak saya tidak tahu. saya merasa sangat kecewa dg pelayanannya",1,2026-03-02 07:35:06,"['saran', 'aplikasi', 'ribet', 'bikin', 'ribet', 'beda', 'calo', 'mulus', 'mulus', 'jalan', 'tol', 'sengaja', 'kecewa', 'layan']"
 "aplikasi basi, tidak bisa dipakai, mungkin sengaja tidak diperbaharui supaya orang bikin paspor ke imigrasi langsung, dan di calo, dimintai uang",1,2026-03-01 12:46:26,"['aplikasi', 'basi', 'pakai', 'mungkin', 'sengaja', 'baharu', 'bikin', 'paspor', 'imigrasi', 'calo', 'uang']"
 baru juga tgl 1 maret jam 01:00 WIB slot bikin paspor di madukara purwakarta udh penuh ku. aneh bgt. pada maen suap kah ini biar dpt slotnya?,1,2026-02-28 18:34:24,"['tanggal', 'maret', 'jam', 'slot', 'bikin', 'paspor', 'madukara', 'purwakarta', 'penuh', 'ku', 'aneh', 'banget', 'main', 'suap', 'biar', 'slotnya']"
@@ -89,16 +99,16 @@ Ini aplikasi kok jelek banget masa iya untuk pelayanan masyarakat kagak bisa dia
 Bagus,5,2026-01-21 03:58:26,['bagus']
 request time out,1,2026-01-21 02:24:51,"['request', 'time', 'out']"
 "tidak bisa dipakai dari luar Indonesia, menurut saya sangat tidak efisien. Setidaknya jika bisa, saya bisa buat janji temu saat masih di luar negeri sebelum pulang ke Indonesia",1,2026-01-20 15:26:56,"['pakai', 'indonesia', 'efisien', 'janji', 'temu', 'negeri', 'pulang', 'indonesia']"
-"gajelas gabsa log in, daftar jga belum pernah katanya udh terdaftar. bagian diklik pemulihan jga gabisa bikin aplikasi yg memudahkan, bukan bikin sulit.",2,2026-01-20 08:24:26,"['gabsa', 'log', 'daftar', 'daftar', 'klik', 'pulih', 'bikin', 'aplikasi', 'mudah', 'bikin', 'sulit']"
-cepat pelayanannya,5,2026-01-20 02:52:17,"['cepat', 'layan']"
-setiap daftar semenjak bula desember selalu kendala di pembayaran kenapa ya??? jadi saat permohonan kadaluarsa lagi dan lagi masukin kuisoner,3,2026-01-20 02:19:36,"['daftar', 'semenjak', 'bula', 'desember', 'kendala', 'bayar', 'mohon', 'kadaluarsa', 'pasuk', 'kuisoner']"
-eror mulu,2,2026-01-20 00:56:30,"['eror', 'mulu']"
-hebat dehhh layanan nya,5,2026-01-19 23:47:44,"['hebat', 'deh', 'layan', 'nya']"
-aplikasi yg gk berguna sama sekali alias pembodohan publik,1,2026-01-19 15:14:13,"['aplikasi', 'alias', 'bodoh', 'publik']"
-sangat merugikan👎👎 uang yang kita bayarkan hangus seketika tanpa ada solusi hapus saja aplikasi ini,1,2026-01-19 04:11:38,"['rugi', 'uang', 'bayar', 'hangus', 'solusi', 'hapus', 'aplikasi']"
-"aplikasi jelek banget, udah sampai tahap akhir tapi ga bisa klik tanggal pilihan untuk ambil antrian. kenapa sih aplikasi pemerintah Indo pasti selalu ga serius begini padahal kan ada biayanya masuk anggaran. Bayar pilih IT yg serius lah pake dana negara bapak2/ibu2 pejabat kaya gini bukannya memudahkan masyarakat malah ngeribetin, mending manual aja sekalian kalau emang ga siap SDA nya",1,2026-01-19 02:07:27,"['aplikasi', 'jelek', 'banget', 'tahap', 'klik', 'tanggal', 'pilih', 'ambil', 'antri', 'sih', 'aplikasi', 'perintah', 'indonesia', 'serius', 'kan', 'biaya', 'masuk', 'anggar', 'bayar', 'pilih', 'serius', 'pakai', 'dana', 'negara', 'bapakibu', 'jabat', 'kayak', 'mudah', 'masyarakat', 'ngeribetin', 'mending', 'manual', 'memang', 'sda', 'nya']"
-kenapa aplikasi untuk pemerintah selalu kayak apk trial...kayak ga niat buat.,1,2026-01-19 01:12:33,"['aplikasi', 'perintah', 'kayak', 'apk', 'trialkayak', 'niat']"
-ok,5,2026-01-18 07:49:02,['ok']
+"gajelas gabsa log in, daftar jga belum pernah katanya udh terdaftar. bagian diklik pemulihan jga gabisa bikin aplikasi yg memudahkan, bukan bikin sulit.",2,2026-01-20 08:24:26,
+cepat pelayanannya,5,2026-01-20 02:52:17,
+setiap daftar semenjak bula desember selalu kendala di pembayaran kenapa ya??? jadi saat permohonan kadaluarsa lagi dan lagi masukin kuisoner,3,2026-01-20 02:19:36,
+eror mulu,2,2026-01-20 00:56:30,
+hebat dehhh layanan nya,5,2026-01-19 23:47:44,
+aplikasi yg gk berguna sama sekali alias pembodohan publik,1,2026-01-19 15:14:13,
+sangat merugikan👎👎 uang yang kita bayarkan hangus seketika tanpa ada solusi hapus saja aplikasi ini,1,2026-01-19 04:11:38,
+"aplikasi jelek banget, udah sampai tahap akhir tapi ga bisa klik tanggal pilihan untuk ambil antrian. kenapa sih aplikasi pemerintah Indo pasti selalu ga serius begini padahal kan ada biayanya masuk anggaran. Bayar pilih IT yg serius lah pake dana negara bapak2/ibu2 pejabat kaya gini bukannya memudahkan masyarakat malah ngeribetin, mending manual aja sekalian kalau emang ga siap SDA nya",1,2026-01-19 02:07:27,
+kenapa aplikasi untuk pemerintah selalu kayak apk trial...kayak ga niat buat.,1,2026-01-19 01:12:33,
+ok,5,2026-01-18 07:49:02,
 bagus,5,2026-01-18 06:01:10,
 "Ribet, aplikasi lambat, susah buat gen boomer.",1,2026-01-17 03:43:13,
 aneh. puluhan x gagal maning.. bolak balik.. kalah sama aplikasi travel JH dan DT.. pemerintah dengan anggaran yang banjir tidak bisa mengatasi hal sepele seperti ini,1,2026-01-17 00:29:20,
@@ -596,7 +606,6 @@ ok,5,2025-08-23 03:27:31,
 nggak bisa log in stag aja black screen padahal email udah kedaftar pasword juga udah bener,1,2025-08-22 00:39:40,
 "meski ga 100% sempurna tanpa error sih, kadang masih ada error ngulang ngisi lagi dari awal, ada 2x an lah. dan kadang kaya ga ke refresh, mesti force close app, baru ke refresh / update. tapi lumayan, akhir nya selesai urusan perpanjang paspor dalam waktu 1 bulan aja. tingkat kan app lebih baik lagi. makasi.",4,2025-08-21 20:38:51,
 "aplikasi lawak banget, request timeout Mulu kocak.. GK berkualitas",2,2025-08-21 14:14:27,
-mungkinkah emang dibuat ribet.. susah... dan menjengkelkan... biar kalian akhirnya dg terpaksa pakai jasa *CALO* 😁😅 KONOHA gitu lho....,5,2025-08-21 10:39:01,
 payah bener log in nya.. jangan paok x kalau buat app.. kode otp g dapat d apa²in jg gak bisa..,1,2025-08-21 06:59:21,
 saya sudah bayar kenapa statusnya masih menunggu pembayaran ya dan juga nggak ada kolom cs nya juga ?,1,2025-08-21 06:36:54,
 "apalah ini aplikasi, susah di buka, mau bayar pun error terus, tolong di perbaiki lagi kedepan nya",1,2025-08-21 05:30:00,
@@ -5615,7 +5624,6 @@ Tidak bisa daftar berulang kali...,5,2024-02-26 08:29:41,
 Sangat Tidak Puas,1,2024-02-25 14:30:18,
 "susah d buka,sengaja biar tdk dpt d akses,dan kembali d buat sulit seperti dulu lagi",2,2024-02-25 11:20:54,
 GIMANA LHO APLIKASINYA GABISA MASUKIN TANGGAL. LOLA ASTAGHFIRULLAH,1,2024-02-25 10:47:01,
-App apaan kaya gini ga bisa daftar nomer hp sudah terdaftar mulu padahal baru pertama kali daftar kocak,1,2024-02-25 07:30:41,
 Pada halaman kuisioner anak terjadi error saat pengisian ktp anak selesai n klik lanjutkan tp ga bisa... Gimana mau mohon paspor klo kek gini caranya,1,2024-02-25 00:34:50,
 "Kita disuruh daftar online.., tapi semua tanggal quotanya statusnya dibuat penuh (0) trus mau pilih tanggal berapa biar bisa urus paspornya., ini ujung2nya dipaksa lewat Ordal(calo).., aplikasi hanya untuk pajangan kemasyarakatan..",1,2024-02-25 00:22:46,
 Tinggal terakhir milih tgl malah gk bisa apa apaan seh ne aplikasi gk jls maunya ap coba,1,2024-02-24 23:33:37,
@@ -7302,7 +7310,6 @@ Langkah ke 5/8 setelah di lanjut tidak bisa,1,2023-07-18 04:02:13,
 Sangat merepotkan.. Selalu email invalid... Banyak buang waktu...,1,2023-07-18 04:00:38,
 Gajelas,1,2023-07-18 03:47:57,
 Verifikasi mulu. Masuk gabisa,1,2023-07-18 03:37:13,
-Kenapa ga bisa berfungsi. Padahal tgl 21 /7 ini sudah mau pembuatan pasport.,1,2023-07-18 02:48:40,
 Sering ngebak,5,2023-07-18 02:21:51,
 "apk jelek bgt... gilaa gagal login muluu buang2 waktu tapi ttp kudu harus lwt aplikasi baru bisa daftar... kalau mau begitu buat aplikasi yg bagus dong jgn error mulu kalau urus di luar aplikasi gilaa mesti lwt calo.. gmn mau majuu apa2 di caloin masalahnya tiba2 timeout pass invalid email.invalid no hp invalid bukannya mempermudah malah mempersulit nambah dosa ia, elah ibarat kalau org mau lahiran udah mati duluan",1,2023-07-18 01:30:56,
 Jangan d download percuma kecewa pooolll,1,2023-07-18 00:29:57,
@@ -9514,7 +9521,6 @@ Aplikasi ini sangat membantu,5,2023-04-27 05:48:54,
 Hallo lemot sekali anda,1,2023-04-27 05:08:52,
 Knpa kok gak bisa d buka..time out terus....pdhl hari ini wawancara k kantor imigrasi. Gimana sih....,3,2023-04-27 02:20:35,
 "Ngak ngerti apa tujuannya dibuat aplikasi ini,kita mendftr disini pun sgt dipersulit,bgmna kt bisa mndftr kalo jaringan error terus..Tiap hari sy coba tp jaringan error trus,trus smpai kpan bgni trus.kmrin sy pergi ke imigresien lgsg suruh dftr melalui aplikasi ini,pdhal aplikasi error bgni kpan siap buat paspor.hadehh parah emang bahhhh",1,2023-04-27 01:20:41,
-Ok,5,2023-04-27 01:07:25,
 Aplikasi apaan sering eror. Gak jelas,1,2023-04-27 00:53:58,
 Mantaab aplikasinya,5,2023-04-26 23:33:00,
 "Pelayanan jelek, cuman bisa login awal bulan doang, setelah itu error. Gaktau sistemnya di matikan mungkin agar masyarakat pusing😩",1,2023-04-26 22:27:23,
@@ -14993,9 +14999,3 @@ Daftar emailnya bisa pakai email Google,1,2022-08-26 06:12:11,
 Tarik data dr drive erorr false terus,1,2022-08-25 22:37:39,
 tolong buat pejabat dan juga karyawan imigrasi..kami diarah kan sebelum membuat pasport harus mengikuti arahan dalam aplikasi ini kami harus bayar dulu..tak disangka sudah dibayar malah ditolak/dicancel lalu uang yang kami bayar itu hangus!!tolong sekali arahannya nominal bagi anda sedikit tetapi bagi kami sangat berharga!!,1,2022-08-25 16:28:55,
 "Siapa bilang aplikasi ini ribet...malahan aplikasih ini sangat membantu buat masayrakat yg langsung ke imegresen, jadi dengan aplk ini mudah mendaftar dengan secara online, pembayarannya melalui pos lagi, Itu aja dari saya TRIMAKASIH🙏",5,2022-08-25 16:18:30,
-Problem solved,5,2022-08-25 15:45:00,
-Sampah,3,2022-08-25 15:00:49,
-Aplikasi payah,1,2022-08-25 13:05:33,
-Jangan buat gianian lah,1,2022-08-25 03:48:44,
-Suka,5,2022-08-24 23:18:41,
-Sangat membantu dan berguna,5,2022-08-24 16:26:54,
